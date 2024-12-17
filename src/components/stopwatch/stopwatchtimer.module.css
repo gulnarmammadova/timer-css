@@ -1,0 +1,15 @@
+.stopwatchContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.stopwatchTime {
+    font-size: 44px;
+    font-weight: normal;
+}
+
+.controls button {
+    margin: 0 10px;
+}

@@ -1,0 +1,22 @@
+.navContainer {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.navLink {
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.active {
+  background-color: magenta;
+  color: white !important;
+}
